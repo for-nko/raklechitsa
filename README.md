@@ -1,4 +1,10 @@
-# Привет :)
+# #Рак лечится
+## Проект Благотворительного Фонда Константина Хабенского. - [raklechitsa.ru](https://raklechitsa.ru/)
+
+Более подробную информацию можно узнать из рекомендательного письма от организаторов проекта:
+
+[РЕКОМЕНДАТЕЛЬНОЕ ПИСЬМО](https://github.com/gisma87/raklechitsa/blob/master/rek_pismo.pdf)
+
 Авторы проекта:
 * Станислав Маньков
 * Екатерина Зайцева
@@ -6,9 +12,16 @@
 * Константин Охлынин
 * Виктор Верещук
 
-## Build Setup
+*****
+Итоговая версия сайта на ресурсе одного из организаторов проекта - [streams.pa7lux.ru](https://streams.pa7lux.ru/)
+
+
+### Настройка сборки
 
 ```bash
+# Делаем клон репозитория
+$ https://github.com/for-nko/raklechitsa.git
+
 # install dependencies
 $ npm install
 
@@ -18,8 +31,3 @@ $ npm run dev
 # build for production and launch server
 $ npm run build
 $ npm run start
-
-# generate static project
-$ npm run generate
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
